@@ -1,0 +1,22 @@
+{
+  "name": "joyuriz-express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "md5-file": "^5.0.0",
+    "mongoose": "^5.9.7",
+    "multer": "^1.4.2",
+    "uuid4": "^1.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "inerplat",
+  "license": "MIT"
+}
