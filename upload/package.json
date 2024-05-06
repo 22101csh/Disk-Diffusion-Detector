@@ -1,8 +1,8 @@
 {
-  "name": "joyuriz-web",
+  "name": "ddd-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://inerplat.github.io/JoyurIZ-WEB",
+  "homepage": "https://22101csh.github.io/Disk-Diffusion-Detector",
   "dependencies": {
     "@material-ui/core": "^4.9.8",
     "@material-ui/icons": "^4.9.1",
@@ -26,7 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
