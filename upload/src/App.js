@@ -185,7 +185,7 @@ class App extends Component {
             <div className="upload-files">
               <header>
               <p>
-              <span className="up">조유리즈</span>
+              <span className="up">디스크 확산법 억제 영역</span>
               <span className="load">판별기</span>
               </p>
               </header>
